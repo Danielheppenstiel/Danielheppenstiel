@@ -1,16 +1,14 @@
-### Hi there 👋
+![I am a Frontend Developer](https://pbs.twimg.com/profile_banners/1526375465207865344/1664316713/600x200)
 
-<!--
-**Danielheppenstiel/Danielheppenstiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, my name is Daniel
+#### I am a Frontend Developer
 
-Here are some ideas to get you started:
+I'm a self-taught developer for Toronto, Canada. My passion is problem solving and helping create a functional web for everyone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills
+
+💻 HTML, CSS, JavaScript
+⚛️ React
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Danielheppenstiel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@DevWithDan)  
