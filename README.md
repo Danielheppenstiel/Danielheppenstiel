@@ -9,8 +9,8 @@ I'm a self-taught developer for Toronto, Canada. My passion is problem solving a
 
 #### Skills
 
-💻 HTML, CSS, JavaScript
-⚛️ React
+- 💻 HTML, CSS, JavaScript
+- ⚛️ React
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Danielheppenstiel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@DevWithDan)  
