@@ -1,4 +1,4 @@
-![I am a Frontend Developer](https://pbs.twimg.com/profile_banners/1526375465207865344/1664316713/600x200)
+<div align="center">![I am a Frontend Developer](https://pbs.twimg.com/profile_banners/1526375465207865344/1664316713/600x200)</div>
 
 ## Hi there 👋, my name is Daniel
 #### I am a Frontend Developer
