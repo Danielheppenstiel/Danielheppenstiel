@@ -2,7 +2,7 @@
   ![I am a Frontend Developer](https://pbs.twimg.com/profile_banners/1526375465207865344/1664316713/600x200)
 
 
-## Hi there 👋, my name is Daniel
+## Hi there 👋
 #### I am a Frontend Developer
 
 I'm a self-taught developer for Toronto, Canada. My passion is problem solving and helping create a functional web for everyone.
