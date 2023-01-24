@@ -1,5 +1,5 @@
 
-  ![I am a Frontend Developer](https://pbs.twimg.com/profile_banners/1526375465207865344/1664316713/600x200)
+  ![I am a Frontend Developer](/assets/banner .jpeg)
 
 
 ## Hi there 👋
