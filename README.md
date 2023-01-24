@@ -1,5 +1,5 @@
 
-  ![I am a Frontend Developer](/assets/banner .jpeg)
+<img src=" /assets/banner.jpeg "/>
 
 
 ## Hi there 👋
