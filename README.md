@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Welcome to my Github Profile</h1>
-<p align="center">I'm a self-taught developer for Toronto, Canada. My passion is problem solving and contributing to a functional web for everyone.</p>
+<p align="center">I'm a self-taught developer from Toronto, Canada. My passion is problem solving and contributing to a functional web for everyone.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
