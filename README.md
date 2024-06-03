@@ -1,5 +1,3 @@
-<h1><a href="#" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_banners/1526375465207865344/1664316713/1500x500"/> </a></h1>
-
 
 <h1 align="center">Welcome to my Github Profile</h1>
 <p align="center">I'm a self-taught developer from Toronto, Canada. My passion is problem solving and contributing to a functional web for everyone.</p>
