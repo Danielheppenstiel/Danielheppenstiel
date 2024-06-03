@@ -4,7 +4,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/devwithdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devwithdan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daniel heppenstiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel heppenstiel" height="30" width="40" /></a>
 <a href="https://instagram.com/danielheppenstiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielheppenstiel" height="30" width="40" /></a>
 </p>
